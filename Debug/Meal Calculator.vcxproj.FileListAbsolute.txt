@@ -1,0 +1,2 @@
+C:\Users\smith\Documents\VS Projects\Meal Calculator\Debug\Meal Calculator.exe
+C:\Users\smith\Documents\VS Projects\Meal Calculator\Debug\Meal Calculator.pdb
